@@ -6,4 +6,4 @@
 
 下のような画像が PNG 形式で出力される
 
-![](https://pbs.twimg.com/media/DBjGEhSUMAAvrhJ.jpg:large)
+![](./export.png)
